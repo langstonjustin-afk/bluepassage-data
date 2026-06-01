@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T00:16:06Z",
+  "updated": "2026-06-01T15:22:53Z",
   "tiles": {
     "charleston_savannah": {
       "bbox": [
@@ -9,7 +9,8 @@
         33.5
       ],
       "files": {
-        "land": "charleston_savannah_land.geojson"
+        "land": "charleston_savannah_land.geojson",
+        "aton": "charleston_savannah_aton.geojson"
       }
     },
     "fl_atlantic": {
