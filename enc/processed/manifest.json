@@ -1,0 +1,108 @@
+{
+  "updated": "2026-06-01T21:56:29Z",
+  "tiles": {
+    "charleston_savannah": {
+      "bbox": [
+        -81.5,
+        31.5,
+        -79.0,
+        33.5
+      ],
+      "files": {
+        "land": "charleston_savannah_land.geojson",
+        "aton": "charleston_savannah_aton.geojson"
+      }
+    },
+    "fl_atlantic": {
+      "bbox": [
+        -81.6,
+        24.4,
+        -79.8,
+        30.5
+      ],
+      "files": {
+        "land": "fl_atlantic_land.geojson",
+        "depth": "fl_atlantic_depth.geojson",
+        "aton": "fl_atlantic_aton.geojson"
+      }
+    },
+    "fl_gulf": {
+      "bbox": [
+        -83.5,
+        24.4,
+        -81.0,
+        28.5
+      ],
+      "files": {
+        "land": "fl_gulf_land.geojson",
+        "depth": "fl_gulf_depth.geojson",
+        "aton": "fl_gulf_aton.geojson"
+      }
+    },
+    "us_ne_coast": {
+      "bbox": [
+        -74.5,
+        38.5,
+        -66.5,
+        45.5
+      ],
+      "files": {
+        "land": "us_ne_coast_land.geojson",
+        "depth": "us_ne_coast_depth.geojson",
+        "aton": "us_ne_coast_aton.geojson"
+      }
+    },
+    "us_mid_coast": {
+      "bbox": [
+        -77.5,
+        35.0,
+        -73.5,
+        39.5
+      ],
+      "files": {
+        "land": "us_mid_coast_land.geojson",
+        "depth": "us_mid_coast_depth.geojson",
+        "aton": "us_mid_coast_aton.geojson"
+      }
+    },
+    "us_se_coast": {
+      "bbox": [
+        -81.6,
+        30.0,
+        -75.0,
+        35.5
+      ],
+      "files": {
+        "land": "us_se_coast_land.geojson",
+        "depth": "us_se_coast_depth.geojson",
+        "aton": "us_se_coast_aton.geojson"
+      }
+    },
+    "gulf_central": {
+      "bbox": [
+        -89.5,
+        27.5,
+        -82.5,
+        30.8
+      ],
+      "files": {
+        "land": "gulf_central_land.geojson",
+        "depth": "gulf_central_depth.geojson",
+        "aton": "gulf_central_aton.geojson"
+      }
+    },
+    "gulf_west": {
+      "bbox": [
+        -97.5,
+        25.8,
+        -89.0,
+        30.5
+      ],
+      "files": {
+        "land": "gulf_west_land.geojson",
+        "depth": "gulf_west_depth.geojson",
+        "aton": "gulf_west_aton.geojson"
+      }
+    }
+  }
+}
