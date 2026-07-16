@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T12:13:05Z",
+  "updated": "2026-07-16T20:11:47Z",
   "tiles": {
     "charleston_savannah": {
       "bbox": [
@@ -11,7 +11,8 @@
       "files": {
         "land": "charleston_savannah_land.geojson",
         "aton": "charleston_savannah_aton.geojson",
-        "anchorages": "charleston_savannah_anchorages.geojson"
+        "anchorages": "charleston_savannah_anchorages.geojson",
+        "bridges": "charleston_savannah_bridges.geojson"
       }
     },
     "fl_atlantic": {
@@ -24,7 +25,8 @@
       "files": {
         "land": "fl_atlantic_land.geojson",
         "depth": "fl_atlantic_depth.geojson",
-        "aton": "fl_atlantic_aton.geojson"
+        "aton": "fl_atlantic_aton.geojson",
+        "bridges": "fl_atlantic_bridges.geojson"
       }
     },
     "fl_gulf": {
@@ -37,7 +39,8 @@
       "files": {
         "land": "fl_gulf_land.geojson",
         "depth": "fl_gulf_depth.geojson",
-        "aton": "fl_gulf_aton.geojson"
+        "aton": "fl_gulf_aton.geojson",
+        "bridges": "fl_gulf_bridges.geojson"
       }
     },
     "us_ne_coast": {
@@ -50,7 +53,8 @@
       "files": {
         "land": "us_ne_coast_land.geojson",
         "depth": "us_ne_coast_depth.geojson",
-        "aton": "us_ne_coast_aton.geojson"
+        "aton": "us_ne_coast_aton.geojson",
+        "bridges": "us_ne_coast_bridges.geojson"
       }
     },
     "us_mid_coast": {
@@ -63,7 +67,8 @@
       "files": {
         "land": "us_mid_coast_land.geojson",
         "depth": "us_mid_coast_depth.geojson",
-        "aton": "us_mid_coast_aton.geojson"
+        "aton": "us_mid_coast_aton.geojson",
+        "bridges": "us_mid_coast_bridges.geojson"
       }
     },
     "us_se_coast": {
@@ -76,7 +81,8 @@
       "files": {
         "land": "us_se_coast_land.geojson",
         "depth": "us_se_coast_depth.geojson",
-        "aton": "us_se_coast_aton.geojson"
+        "aton": "us_se_coast_aton.geojson",
+        "bridges": "us_se_coast_bridges.geojson"
       }
     },
     "gulf_central": {
@@ -89,7 +95,8 @@
       "files": {
         "land": "gulf_central_land.geojson",
         "depth": "gulf_central_depth.geojson",
-        "aton": "gulf_central_aton.geojson"
+        "aton": "gulf_central_aton.geojson",
+        "bridges": "gulf_central_bridges.geojson"
       }
     },
     "gulf_west": {
@@ -102,7 +109,8 @@
       "files": {
         "land": "gulf_west_land.geojson",
         "depth": "gulf_west_depth.geojson",
-        "aton": "gulf_west_aton.geojson"
+        "aton": "gulf_west_aton.geojson",
+        "bridges": "gulf_west_bridges.geojson"
       }
     }
   }
