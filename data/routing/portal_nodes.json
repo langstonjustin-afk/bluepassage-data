@@ -1,0 +1,289 @@
+{
+ "nodes": [
+  {
+   "name": "Key West Main Ship Channel",
+   "lat": 24.5486,
+   "lon": -81.8149
+  },
+  {
+   "name": "North Edisto Inlet (Bohicket)",
+   "lat": 32.58732,
+   "lon": -80.20277
+  },
+  {
+   "name": "Biscayne Channel, Cape Florida",
+   "lat": 25.6695,
+   "lon": -80.2005
+  },
+  {
+   "name": "Government Cut, Miami",
+   "lat": 25.762,
+   "lon": -80.13
+  },
+  {
+   "name": "Port Everglades, Fort Lauderdale",
+   "lat": 26.093,
+   "lon": -80.108
+  },
+  {
+   "name": "Lake Worth Inlet, Riviera Beach",
+   "lat": 26.773,
+   "lon": -80.036
+  },
+  {
+   "name": "St. Lucie Inlet, Stuart",
+   "lat": 27.163,
+   "lon": -80.154
+  },
+  {
+   "name": "Fort Pierce Inlet",
+   "lat": 27.4645,
+   "lon": -80.3208
+  },
+  {
+   "name": "Sebastian Inlet",
+   "lat": 27.862,
+   "lon": -80.452
+  },
+  {
+   "name": "Port Canaveral",
+   "lat": 28.409,
+   "lon": -80.618
+  },
+  {
+   "name": "Ponce Inlet, Daytona",
+   "lat": 29.083,
+   "lon": -80.934
+  },
+  {
+   "name": "St. Augustine Inlet",
+   "lat": 29.90624,
+   "lon": -81.29916
+  },
+  {
+   "name": "St. Johns River, Jacksonville",
+   "lat": 30.392,
+   "lon": -81.436
+  },
+  {
+   "name": "Nassau Sound, Fernandina",
+   "lat": 30.638,
+   "lon": -81.43
+  },
+  {
+   "name": "St Marys Entrance, Fernandina",
+   "lat": 30.67,
+   "lon": -81.4675
+  },
+  {
+   "name": "Wassaw Sound, Thunderbolt",
+   "lat": 31.978,
+   "lon": -81.007
+  },
+  {
+   "name": "Tybee Roads, Savannah",
+   "lat": 32.03641,
+   "lon": -80.85693
+  },
+  {
+   "name": "Calibogue Sound, Hilton Head",
+   "lat": 32.083,
+   "lon": -80.842
+  },
+  {
+   "name": "Skull Creek, Hilton Head",
+   "lat": 32.2467,
+   "lon": -80.7491
+  },
+  {
+   "name": "Port Royal Sound, Beaufort",
+   "lat": 32.3002,
+   "lon": -80.6545
+  },
+  {
+   "name": "St Helena Sound, Beaufort",
+   "lat": 32.5055,
+   "lon": -80.5054
+  },
+  {
+   "name": "St Simons Sound, Brunswick",
+   "lat": 31.0835,
+   "lon": -81.4335
+  },
+  {
+   "name": "Charleston Harbor",
+   "lat": 32.752,
+   "lon": -79.87
+  },
+  {
+   "name": "Winyah Bay, Georgetown",
+   "lat": 33.36,
+   "lon": -79.295
+  },
+  {
+   "name": "Cape Fear River, Wilmington",
+   "lat": 33.912,
+   "lon": -77.983
+  },
+  {
+   "name": "Cape Fear Entrance, Bald Head",
+   "lat": 33.877,
+   "lon": -78.0055
+  },
+  {
+   "name": "Beaufort Inlet, Morehead City",
+   "lat": 34.72,
+   "lon": -76.724
+  },
+  {
+   "name": "Ocracoke Inlet",
+   "lat": 35.103,
+   "lon": -76.01
+  },
+  {
+   "name": "Hampton Roads, Norfolk",
+   "lat": 36.85,
+   "lon": -76.29
+  },
+  {
+   "name": "Tampa Bay / Egmont Key",
+   "lat": 27.598,
+   "lon": -82.66
+  },
+  {
+   "name": "Charlotte Harbor, Boca Grande",
+   "lat": 26.698,
+   "lon": -82.255
+  },
+  {
+   "name": "Gordon Pass, Naples",
+   "lat": 26.107,
+   "lon": -81.814
+  },
+  {
+   "name": "Cape Romano, Marco Island",
+   "lat": 25.853,
+   "lon": -81.718
+  },
+  {
+   "name": "Cape May Inlet",
+   "lat": 38.925,
+   "lon": -74.855
+  },
+  {
+   "name": "Absecon Inlet, Atlantic City",
+   "lat": 39.368,
+   "lon": -74.407
+  },
+  {
+   "name": "Manasquan Inlet",
+   "lat": 40.101,
+   "lon": -74.033
+  },
+  {
+   "name": "Sandy Hook Channel, New York",
+   "lat": 40.62,
+   "lon": -74.05
+  },
+  {
+   "name": "Montauk Harbor",
+   "lat": 41.09,
+   "lon": -71.92
+  },
+  {
+   "name": "Great Salt Pond, Block Island",
+   "lat": 41.18,
+   "lon": -71.55
+  },
+  {
+   "name": "Narragansett East Passage, Newport",
+   "lat": 41.48,
+   "lon": -71.34
+  },
+  {
+   "name": "Vineyard Haven Harbor",
+   "lat": 41.47,
+   "lon": -70.59
+  },
+  {
+   "name": "Nantucket Harbor Entrance",
+   "lat": 41.325,
+   "lon": -70.085
+  },
+  {
+   "name": "Buzzards Bay / Canal West, Onset",
+   "lat": 41.68,
+   "lon": -70.68
+  },
+  {
+   "name": "Cape Cod Canal East, Sandwich",
+   "lat": 41.79,
+   "lon": -70.47
+  },
+  {
+   "name": "Plymouth Bay",
+   "lat": 41.98,
+   "lon": -70.62
+  },
+  {
+   "name": "Provincetown Harbor",
+   "lat": 42.03,
+   "lon": -70.17
+  },
+  {
+   "name": "Boston Harbor",
+   "lat": 42.34,
+   "lon": -71.0
+  },
+  {
+   "name": "Salem Sound",
+   "lat": 42.54,
+   "lon": -70.81
+  },
+  {
+   "name": "Gloucester Harbor",
+   "lat": 42.58,
+   "lon": -70.67
+  },
+  {
+   "name": "Portsmouth Harbor",
+   "lat": 43.06,
+   "lon": -70.69
+  },
+  {
+   "name": "Kennebunk River",
+   "lat": 43.335,
+   "lon": -70.465
+  },
+  {
+   "name": "Portland Harbor",
+   "lat": 43.71,
+   "lon": -70.19
+  },
+  {
+   "name": "Boothbay Harbor",
+   "lat": 43.82,
+   "lon": -69.64
+  },
+  {
+   "name": "Rockland Harbor",
+   "lat": 44.11,
+   "lon": -69.06
+  },
+  {
+   "name": "Camden Harbor",
+   "lat": 44.2,
+   "lon": -69.02
+  },
+  {
+   "name": "Western Way, Southwest Harbor",
+   "lat": 44.27,
+   "lon": -68.3
+  },
+  {
+   "name": "Frenchman Bay, Bar Harbor",
+   "lat": 44.38,
+   "lon": -68.18
+  }
+ ]
+}
