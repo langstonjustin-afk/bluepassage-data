@@ -1,117 +1,185 @@
 {
-  "updated": "2026-07-16T20:11:47Z",
-  "tiles": {
-    "charleston_savannah": {
-      "bbox": [
-        -81.5,
-        31.5,
-        -79.0,
-        33.5
-      ],
-      "files": {
-        "land": "charleston_savannah_land.geojson",
-        "aton": "charleston_savannah_aton.geojson",
-        "anchorages": "charleston_savannah_anchorages.geojson",
-        "bridges": "charleston_savannah_bridges.geojson"
-      }
-    },
-    "fl_atlantic": {
-      "bbox": [
-        -81.6,
-        24.4,
-        -79.8,
-        30.5
-      ],
-      "files": {
-        "land": "fl_atlantic_land.geojson",
-        "depth": "fl_atlantic_depth.geojson",
-        "aton": "fl_atlantic_aton.geojson",
-        "bridges": "fl_atlantic_bridges.geojson"
-      }
-    },
-    "fl_gulf": {
-      "bbox": [
-        -83.5,
-        24.4,
-        -81.0,
-        28.5
-      ],
-      "files": {
-        "land": "fl_gulf_land.geojson",
-        "depth": "fl_gulf_depth.geojson",
-        "aton": "fl_gulf_aton.geojson",
-        "bridges": "fl_gulf_bridges.geojson"
-      }
-    },
-    "us_ne_coast": {
-      "bbox": [
-        -74.5,
-        38.5,
-        -66.5,
-        45.5
-      ],
-      "files": {
-        "land": "us_ne_coast_land.geojson",
-        "depth": "us_ne_coast_depth.geojson",
-        "aton": "us_ne_coast_aton.geojson",
-        "bridges": "us_ne_coast_bridges.geojson"
-      }
-    },
-    "us_mid_coast": {
-      "bbox": [
-        -77.5,
-        35.0,
-        -73.5,
-        39.5
-      ],
-      "files": {
-        "land": "us_mid_coast_land.geojson",
-        "depth": "us_mid_coast_depth.geojson",
-        "aton": "us_mid_coast_aton.geojson",
-        "bridges": "us_mid_coast_bridges.geojson"
-      }
-    },
-    "us_se_coast": {
-      "bbox": [
-        -81.6,
-        30.0,
-        -75.0,
-        35.5
-      ],
-      "files": {
-        "land": "us_se_coast_land.geojson",
-        "depth": "us_se_coast_depth.geojson",
-        "aton": "us_se_coast_aton.geojson",
-        "bridges": "us_se_coast_bridges.geojson"
-      }
-    },
-    "gulf_central": {
-      "bbox": [
-        -89.5,
-        27.5,
-        -82.5,
-        30.8
-      ],
-      "files": {
-        "land": "gulf_central_land.geojson",
-        "depth": "gulf_central_depth.geojson",
-        "aton": "gulf_central_aton.geojson",
-        "bridges": "gulf_central_bridges.geojson"
-      }
-    },
-    "gulf_west": {
-      "bbox": [
-        -97.5,
-        25.8,
-        -89.0,
-        30.5
-      ],
-      "files": {
-        "land": "gulf_west_land.geojson",
-        "depth": "gulf_west_depth.geojson",
-        "aton": "gulf_west_aton.geojson",
-        "bridges": "gulf_west_bridges.geojson"
-      }
-    }
+ "updated": "2026-08-12T19:51:23Z",
+ "tiles": {
+  "charleston_savannah": {
+   "bbox": [
+    -81.5,
+    31.5,
+    -79.0,
+    33.5
+   ],
+   "files": {
+    "land": "charleston_savannah_land.geojson",
+    "aton": "charleston_savannah_aton.geojson",
+    "anchorages": "charleston_savannah_anchorages.geojson",
+    "bridges": "charleston_savannah_bridges.geojson"
+   }
+  },
+  "fl_atlantic": {
+   "bbox": [
+    -81.6,
+    24.4,
+    -79.8,
+    30.5
+   ],
+   "files": {
+    "land": "fl_atlantic_land.geojson",
+    "depth": "fl_atlantic_depth.geojson",
+    "aton": "fl_atlantic_aton.geojson",
+    "bridges": "fl_atlantic_bridges.geojson"
+   }
+  },
+  "fl_gulf": {
+   "bbox": [
+    -83.5,
+    24.4,
+    -81.0,
+    28.5
+   ],
+   "files": {
+    "land": "fl_gulf_land.geojson",
+    "depth": "fl_gulf_depth.geojson",
+    "aton": "fl_gulf_aton.geojson",
+    "bridges": "fl_gulf_bridges.geojson"
+   }
+  },
+  "us_ne_coast": {
+   "bbox": [
+    -74.5,
+    38.5,
+    -66.5,
+    45.5
+   ],
+   "files": {
+    "land": "us_ne_coast_land.geojson",
+    "depth": "us_ne_coast_depth.geojson",
+    "aton": "us_ne_coast_aton.geojson",
+    "bridges": "us_ne_coast_bridges.geojson"
+   }
+  },
+  "us_mid_coast": {
+   "bbox": [
+    -77.5,
+    35.0,
+    -73.5,
+    39.5
+   ],
+   "files": {
+    "land": "us_mid_coast_land.geojson",
+    "depth": "us_mid_coast_depth.geojson",
+    "aton": "us_mid_coast_aton.geojson",
+    "bridges": "us_mid_coast_bridges.geojson"
+   }
+  },
+  "us_se_coast": {
+   "bbox": [
+    -81.6,
+    30.0,
+    -75.0,
+    35.5
+   ],
+   "files": {
+    "land": "us_se_coast_land.geojson",
+    "depth": "us_se_coast_depth.geojson",
+    "aton": "us_se_coast_aton.geojson",
+    "bridges": "us_se_coast_bridges.geojson"
+   }
+  },
+  "gulf_central": {
+   "bbox": [
+    -89.5,
+    27.5,
+    -82.5,
+    30.8
+   ],
+   "files": {
+    "land": "gulf_central_land.geojson",
+    "depth": "gulf_central_depth.geojson",
+    "aton": "gulf_central_aton.geojson",
+    "bridges": "gulf_central_bridges.geojson"
+   }
+  },
+  "gulf_west": {
+   "bbox": [
+    -97.5,
+    25.8,
+    -89.0,
+    30.5
+   ],
+   "files": {
+    "land": "gulf_west_land.geojson",
+    "depth": "gulf_west_depth.geojson",
+    "aton": "gulf_west_aton.geojson",
+    "bridges": "gulf_west_bridges.geojson"
+   }
+  },
+  "stono_corridor": {
+   "bbox": [
+    -80.4,
+    32.55,
+    -79.85,
+    32.85
+   ],
+   "files": {
+    "land": "stono_corridor_land.geojson",
+    "dredged": "stono_corridor_dredged.geojson",
+    "depth": "stono_corridor_depth.geojson"
+   }
+  },
+  "ga_sounds_true": {
+   "bbox": [
+    -81.75,
+    30.55,
+    -80.75,
+    32.15
+   ],
+   "files": {
+    "land": "ga_sounds_true_land.geojson"
+   }
+  },
+  "northfl_jax_true": {
+   "bbox": [
+    -81.8,
+    30.2,
+    -81.3,
+    30.5
+   ],
+   "files": {
+    "land": "northfl_jax_true_land.geojson"
+   }
+  },
+  "sc_harbors_true": {
+   "bbox": [
+    -80.95,
+    32.05,
+    -79.15,
+    33.45
+   ],
+   "files": {
+    "land": "sc_harbors_true_land.geojson"
+   }
+  },
+  "capefear_true": {
+   "bbox": [
+    -78.1,
+    33.95,
+    -77.75,
+    34.3
+   ],
+   "files": {
+    "land": "capefear_true_land.geojson"
+   }
+  },
+  "chs_bohicket_true": {
+   "bbox": [
+    -80.475,
+    32.475,
+    -79.8,
+    32.85
+   ],
+   "files": {
+    "land": "chs_bohicket_true_land.geojson"
+   }
   }
+ }
 }
