@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T14:20:00Z",
+ "updated": "2026-08-24T18:42:31Z",
  "tiles": {
   "charleston_savannah": {
    "bbox": [
@@ -201,6 +201,39 @@
    ],
    "files": {
     "land": "fl_gulf_harbors_true_land.geojson"
+   }
+  },
+  "daytona_true": {
+   "bbox": [
+    -81.385,
+    28.865,
+    -80.715,
+    29.785
+   ],
+   "files": {
+    "land": "daytona_true_land.geojson"
+   }
+  },
+  "myrtle_true": {
+   "bbox": [
+    -79.385,
+    33.265,
+    -78.465,
+    33.935
+   ],
+   "files": {
+    "land": "myrtle_true_land.geojson"
+   }
+  },
+  "savannah_river_true": {
+   "bbox": [
+    -81.235,
+    32.1,
+    -80.9,
+    32.335
+   ],
+   "files": {
+    "land": "savannah_river_true_land.geojson"
    }
   }
  }
