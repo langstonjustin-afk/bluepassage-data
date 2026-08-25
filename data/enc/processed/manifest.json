@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T18:42:31Z",
+ "updated": "2026-08-25T22:55:47Z",
  "tiles": {
   "charleston_savannah": {
    "bbox": [
@@ -234,6 +234,105 @@
    ],
    "files": {
     "land": "savannah_river_true_land.geojson"
+   }
+  },
+  "st_augustine_true": {
+   "bbox": [
+    -81.635,
+    29.665,
+    -81.065,
+    30.385
+   ],
+   "files": {
+    "land": "st_augustine_true_land.geojson"
+   }
+  },
+  "brunswick_true": {
+   "bbox": [
+    -81.785,
+    30.915,
+    -81.165,
+    31.485
+   ],
+   "files": {
+    "land": "brunswick_true_land.geojson"
+   }
+  },
+  "canaveral_true": {
+   "bbox": [
+    -80.985,
+    28.165,
+    -80.365,
+    28.985
+   ],
+   "files": {
+    "land": "canaveral_true_land.geojson"
+   }
+  },
+  "vero_ftpierce_true": {
+   "bbox": [
+    -80.635,
+    27.165,
+    -80.115,
+    27.985
+   ],
+   "files": {
+    "land": "vero_ftpierce_true_land.geojson"
+   }
+  },
+  "stuart_palmbeach_true": {
+   "bbox": [
+    -80.335,
+    26.565,
+    -79.915,
+    27.285
+   ],
+   "files": {
+    "land": "stuart_palmbeach_true_land.geojson"
+   }
+  },
+  "lauderdale_miami_true": {
+   "bbox": [
+    -80.385,
+    25.615,
+    -79.915,
+    26.685
+   ],
+   "files": {
+    "land": "lauderdale_miami_true_land.geojson"
+   }
+  },
+  "sanjuan_true": {
+   "bbox": [
+    -66.385,
+    18.315,
+    -65.915,
+    18.635
+   ],
+   "files": {
+    "land": "sanjuan_true_land.geojson"
+   }
+  },
+  "pr_east_true": {
+   "bbox": [
+    -65.785,
+    18.015,
+    -65.115,
+    18.535
+   ],
+   "files": {
+    "land": "pr_east_true_land.geojson"
+   }
+  },
+  "usvi_true": {
+   "bbox": [
+    -65.185,
+    18.115,
+    -64.515,
+    18.535
+   ],
+   "files": {
+    "land": "usvi_true_land.geojson"
    }
   }
  }
