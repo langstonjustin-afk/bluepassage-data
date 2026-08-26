@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T01:47:00Z",
+ "updated": "2026-08-26T11:52:04Z",
  "tiles": {
   "charleston_savannah": {
    "bbox": [
@@ -126,42 +126,6 @@
     "depth": "stono_corridor_depth.geojson"
    }
   },
-  "ga_sounds_true": {
-   "bbox": [
-    -81.75,
-    30.55,
-    -80.75,
-    32.15
-   ],
-   "files": {
-    "land": "ga_sounds_true_land.geojson",
-    "cover": "ga_sounds_true_cover.geojson"
-   }
-  },
-  "northfl_jax_true": {
-   "bbox": [
-    -81.8,
-    30.2,
-    -81.3,
-    30.5
-   ],
-   "files": {
-    "land": "northfl_jax_true_land.geojson",
-    "cover": "northfl_jax_true_cover.geojson"
-   }
-  },
-  "sc_harbors_true": {
-   "bbox": [
-    -80.95,
-    32.05,
-    -79.15,
-    33.45
-   ],
-   "files": {
-    "land": "sc_harbors_true_land.geojson",
-    "cover": "sc_harbors_true_cover.geojson"
-   }
-  },
   "capefear_true": {
    "bbox": [
     -78.1,
@@ -174,29 +138,6 @@
     "cover": "capefear_true_cover.geojson"
    }
   },
-  "chs_bohicket_true": {
-   "bbox": [
-    -80.475,
-    32.475,
-    -79.8,
-    32.85
-   ],
-   "files": {
-    "land": "chs_bohicket_true_land.geojson"
-   }
-  },
-  "fl_atl_harbors_true": {
-   "bbox": [
-    -80.75,
-    25.6,
-    -80.0,
-    29.2
-   ],
-   "files": {
-    "land": "fl_atl_harbors_true_land.geojson",
-    "cover": "fl_atl_harbors_true_cover.geojson"
-   }
-  },
   "fl_gulf_harbors_true": {
    "bbox": [
     -83.1,
@@ -206,42 +147,6 @@
    ],
    "files": {
     "land": "fl_gulf_harbors_true_land.geojson"
-   }
-  },
-  "daytona_true": {
-   "bbox": [
-    -81.385,
-    28.865,
-    -80.715,
-    29.785
-   ],
-   "files": {
-    "land": "daytona_true_land.geojson",
-    "cover": "daytona_true_cover.geojson"
-   }
-  },
-  "myrtle_true": {
-   "bbox": [
-    -79.385,
-    33.265,
-    -78.465,
-    33.935
-   ],
-   "files": {
-    "land": "myrtle_true_land.geojson",
-    "cover": "myrtle_true_cover.geojson"
-   }
-  },
-  "savannah_river_true": {
-   "bbox": [
-    -81.235,
-    32.1,
-    -80.9,
-    32.335
-   ],
-   "files": {
-    "land": "savannah_river_true_land.geojson",
-    "cover": "savannah_river_true_cover.geojson"
    }
   },
   "st_augustine_true": {
@@ -350,6 +255,330 @@
    "files": {
     "land": "usvi_true_land.geojson",
     "cover": "usvi_true_cover.geojson"
+   }
+  },
+  "sthelena_true": {
+   "bbox": [
+    -80.785,
+    32.015,
+    -80.215,
+    32.585
+   ],
+   "files": {
+    "land": "sthelena_true_land.geojson",
+    "cover": "sthelena_true_cover.geojson"
+   }
+  },
+  "georgetown_true": {
+   "bbox": [
+    -79.885,
+    32.815,
+    -79.115,
+    33.435
+   ],
+   "files": {
+    "land": "georgetown_true_land.geojson",
+    "cover": "georgetown_true_cover.geojson"
+   }
+  },
+  "hhi_savannah_true": {
+   "bbox": [
+    -81.235,
+    31.815,
+    -80.565,
+    32.335
+   ],
+   "files": {
+    "land": "hhi_savannah_true_land.geojson",
+    "cover": "hhi_savannah_true_cover.geojson"
+   }
+  },
+  "ossabaw_sapelo_true": {
+   "bbox": [
+    -81.585,
+    31.315,
+    -80.965,
+    31.985
+   ],
+   "files": {
+    "land": "ossabaw_sapelo_true_land.geojson",
+    "cover": "ossabaw_sapelo_true_cover.geojson"
+   }
+  },
+  "fernandina_jax_true": {
+   "bbox": [
+    -81.835,
+    30.265,
+    -81.165,
+    30.935
+   ],
+   "files": {
+    "land": "fernandina_jax_true_land.geojson",
+    "cover": "fernandina_jax_true_cover.geojson"
+   }
+  },
+  "keys_upper_true": {
+   "bbox": [
+    -80.885,
+    24.865,
+    -80.065,
+    25.735
+   ],
+   "files": {
+    "land": "keys_upper_true_land.geojson",
+    "cover": "keys_upper_true_cover.geojson"
+   }
+  },
+  "keys_lower_true": {
+   "bbox": [
+    -81.985,
+    24.415,
+    -80.765,
+    24.985
+   ],
+   "files": {
+    "land": "keys_lower_true_land.geojson",
+    "cover": "keys_lower_true_cover.geojson"
+   }
+  },
+  "melbourne_sebastian_true": {
+   "bbox": [
+    -80.785,
+    27.865,
+    -80.315,
+    28.285
+   ],
+   "files": {
+    "land": "melbourne_sebastian_true_land.geojson",
+    "cover": "melbourne_sebastian_true_cover.geojson"
+   }
+  },
+  "charleston_north_true": {
+   "bbox": [
+    -79.985,
+    32.665,
+    -79.515,
+    32.985
+   ],
+   "files": {
+    "land": "charleston_north_true_land.geojson",
+    "cover": "charleston_north_true_cover.geojson"
+   }
+  },
+  "norfolk_hamptonroads_true": {
+   "bbox": [
+    -76.535,
+    36.665,
+    -75.915,
+    37.135
+   ],
+   "files": {
+    "land": "norfolk_hamptonroads_true_land.geojson",
+    "cover": "norfolk_hamptonroads_true_cover.geojson"
+   }
+  },
+  "york_deltaville_true": {
+   "bbox": [
+    -76.635,
+    37.015,
+    -76.115,
+    37.635
+   ],
+   "files": {
+    "land": "york_deltaville_true_land.geojson",
+    "cover": "york_deltaville_true_cover.geojson"
+   }
+  },
+  "reedville_potomac_true": {
+   "bbox": [
+    -76.635,
+    37.515,
+    -76.165,
+    38.235
+   ],
+   "files": {
+    "land": "reedville_potomac_true_land.geojson",
+    "cover": "reedville_potomac_true_cover.geojson"
+   }
+  },
+  "solomons_patuxent_true": {
+   "bbox": [
+    -76.735,
+    38.115,
+    -76.265,
+    38.635
+   ],
+   "files": {
+    "land": "solomons_patuxent_true_land.geojson",
+    "cover": "solomons_patuxent_true_cover.geojson"
+   }
+  },
+  "annapolis_severn_true": {
+   "bbox": [
+    -76.735,
+    38.515,
+    -76.165,
+    39.085
+   ],
+   "files": {
+    "land": "annapolis_severn_true_land.geojson",
+    "cover": "annapolis_severn_true_cover.geojson"
+   }
+  },
+  "choptank_stmichaels_true": {
+   "bbox": [
+    -76.485,
+    38.465,
+    -75.965,
+    38.935
+   ],
+   "files": {
+    "land": "choptank_stmichaels_true_land.geojson",
+    "cover": "choptank_stmichaels_true_cover.geojson"
+   }
+  },
+  "baltimore_patapsco_true": {
+   "bbox": [
+    -76.785,
+    38.965,
+    -76.115,
+    39.435
+   ],
+   "files": {
+    "land": "baltimore_patapsco_true_land.geojson",
+    "cover": "baltimore_patapsco_true_cover.geojson"
+   }
+  },
+  "upperbay_cd_true": {
+   "bbox": [
+    -76.235,
+    39.265,
+    -75.415,
+    39.685
+   ],
+   "files": {
+    "land": "upperbay_cd_true_land.geojson",
+    "cover": "upperbay_cd_true_cover.geojson"
+   }
+  },
+  "delbay_true": {
+   "bbox": [
+    -75.485,
+    38.715,
+    -75.015,
+    39.385
+   ],
+   "files": {
+    "land": "delbay_true_land.geojson",
+    "cover": "delbay_true_cover.geojson"
+   }
+  },
+  "capemay_true": {
+   "bbox": [
+    -75.235,
+    38.815,
+    -74.565,
+    39.285
+   ],
+   "files": {
+    "land": "capemay_true_land.geojson",
+    "cover": "capemay_true_cover.geojson"
+   }
+  },
+  "njicw_atlantic_city_true": {
+   "bbox": [
+    -74.885,
+    39.165,
+    -74.265,
+    39.585
+   ],
+   "files": {
+    "land": "njicw_atlantic_city_true_land.geojson",
+    "cover": "njicw_atlantic_city_true_cover.geojson"
+   }
+  },
+  "njicw_barnegat_true": {
+   "bbox": [
+    -74.535,
+    39.415,
+    -73.965,
+    40.035
+   ],
+   "files": {
+    "land": "njicw_barnegat_true_land.geojson",
+    "cover": "njicw_barnegat_true_cover.geojson"
+   }
+  },
+  "manasquan_metedeconk_true": {
+   "bbox": [
+    -74.285,
+    39.915,
+    -73.915,
+    40.235
+   ],
+   "files": {
+    "land": "manasquan_metedeconk_true_land.geojson",
+    "cover": "manasquan_metedeconk_true_cover.geojson"
+   }
+  },
+  "sandyhook_nyharbor_true": {
+   "bbox": [
+    -74.385,
+    40.115,
+    -73.865,
+    40.835
+   ],
+   "files": {
+    "land": "sandyhook_nyharbor_true_land.geojson",
+    "cover": "sandyhook_nyharbor_true_cover.geojson"
+   }
+  },
+  "nedisto_test_true": {
+   "bbox": [
+    -80.435,
+    32.415,
+    -80.065,
+    32.835
+   ],
+   "files": {
+    "land": "nedisto_test_true_land.geojson",
+    "cover": "nedisto_test_true_cover.geojson"
+   }
+  },
+  "chs_stono_true": {
+   "bbox": [
+    -80.185,
+    32.515,
+    -79.765,
+    32.935
+   ],
+   "files": {
+    "land": "chs_stono_true_land.geojson",
+    "cover": "chs_stono_true_cover.geojson"
+   }
+  },
+  "myrtle_true": {
+   "bbox": [
+    -79.385,
+    33.265,
+    -78.465,
+    33.935
+   ],
+   "files": {
+    "land": "myrtle_true_land.geojson",
+    "cover": "myrtle_true_cover.geojson"
+   }
+  },
+  "daytona_true": {
+   "bbox": [
+    -81.385,
+    28.865,
+    -80.715,
+    29.785
+   ],
+   "files": {
+    "land": "daytona_true_land.geojson",
+    "cover": "daytona_true_cover.geojson"
    }
   }
  }
