@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T11:52:04Z",
+ "updated": "2026-08-26T18:11:59Z",
  "tiles": {
   "charleston_savannah": {
    "bbox": [
@@ -579,6 +579,20 @@
    "files": {
     "land": "daytona_true_land.geojson",
     "cover": "daytona_true_cover.geojson"
+   }
+  },
+  "pr_usvi": {
+   "bbox": [
+    -67.45,
+    17.55,
+    -64.25,
+    18.65
+   ],
+   "files": {
+    "land": "pr_usvi_land.geojson",
+    "depth": "pr_usvi_depth.geojson",
+    "aton": "pr_usvi_aton.geojson",
+    "bridges": "pr_usvi_bridges.geojson"
    }
   }
  }
