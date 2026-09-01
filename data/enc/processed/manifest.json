@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T18:11:59Z",
+ "updated": "2026-09-01T15:26:16Z",
  "tiles": {
   "charleston_savannah": {
    "bbox": [
@@ -593,6 +593,18 @@
     "depth": "pr_usvi_depth.geojson",
     "aton": "pr_usvi_aton.geojson",
     "bridges": "pr_usvi_bridges.geojson"
+   }
+  },
+  "tampa_sarasota_true": {
+   "bbox": [
+    -82.835,
+    27.215,
+    -82.365,
+    27.885
+   ],
+   "files": {
+    "land": "tampa_sarasota_true_land.geojson",
+    "cover": "tampa_sarasota_true_cover.geojson"
    }
   }
  }
