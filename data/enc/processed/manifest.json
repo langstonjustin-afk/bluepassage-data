@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T15:26:16Z",
+ "updated": "2026-09-03T11:02:11Z",
  "tiles": {
   "charleston_savannah": {
    "bbox": [
@@ -146,7 +146,8 @@
     28.1
    ],
    "files": {
-    "land": "fl_gulf_harbors_true_land.geojson"
+    "land": "fl_gulf_harbors_true_land.geojson",
+    "cover": "fl_gulf_harbors_true_cover.geojson"
    }
   },
   "st_augustine_true": {
