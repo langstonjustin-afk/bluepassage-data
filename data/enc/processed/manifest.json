@@ -607,6 +607,30 @@
     "land": "tampa_sarasota_true_land.geojson",
     "cover": "tampa_sarasota_true_cover.geojson"
    }
+  },
+  "bimini_true": {
+   "bbox": [
+    -79.42,
+    25.62,
+    -79.18,
+    25.82
+   ],
+   "files": {
+    "land": "bimini_true_land.geojson",
+    "cover": "bimini_true_cover.geojson"
+   }
+  },
+  "west_end_true": {
+   "bbox": [
+    -79.1,
+    26.55,
+    -78.75,
+    26.8
+   ],
+   "files": {
+    "land": "west_end_true_land.geojson",
+    "cover": "west_end_true_cover.geojson"
+   }
   }
  }
 }
