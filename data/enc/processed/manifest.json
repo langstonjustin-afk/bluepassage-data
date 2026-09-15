@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T18:47:35Z",
+ "updated": "2026-09-15T15:19:29Z",
  "tiles": {
   "charleston_savannah": {
    "bbox": [
@@ -279,7 +279,8 @@
    "files": {
     "land": "sthelena_true_land.geojson",
     "cover": "sthelena_true_cover.geojson",
-    "depthEvidence": "sthelena_true_depth_evidence.geojson.gz"
+    "depthEvidence": "sthelena_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "sthelena_true_dredged_evidence.geojson.gz"
    }
   },
   "georgetown_true": {
@@ -292,7 +293,8 @@
    "files": {
     "land": "georgetown_true_land.geojson",
     "cover": "georgetown_true_cover.geojson",
-    "depthEvidence": "georgetown_true_depth_evidence.geojson.gz"
+    "depthEvidence": "georgetown_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "georgetown_true_dredged_evidence.geojson.gz"
    }
   },
   "hhi_savannah_true": {
@@ -305,7 +307,8 @@
    "files": {
     "land": "hhi_savannah_true_land.geojson",
     "cover": "hhi_savannah_true_cover.geojson",
-    "depthEvidence": "hhi_savannah_true_depth_evidence.geojson.gz"
+    "depthEvidence": "hhi_savannah_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "hhi_savannah_true_dredged_evidence.geojson.gz"
    }
   },
   "ossabaw_sapelo_true": {
@@ -383,7 +386,8 @@
    "files": {
     "land": "charleston_north_true_land.geojson",
     "cover": "charleston_north_true_cover.geojson",
-    "depthEvidence": "charleston_north_true_depth_evidence.geojson.gz"
+    "depthEvidence": "charleston_north_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "charleston_north_true_dredged_evidence.geojson.gz"
    }
   },
   "norfolk_hamptonroads_true": {
@@ -578,7 +582,8 @@
    "files": {
     "land": "nedisto_test_true_land.geojson",
     "cover": "nedisto_test_true_cover.geojson",
-    "depthEvidence": "nedisto_test_true_depth_evidence.geojson.gz"
+    "depthEvidence": "nedisto_test_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "nedisto_test_true_dredged_evidence.geojson.gz"
    }
   },
   "chs_stono_true": {
@@ -591,7 +596,8 @@
    "files": {
     "land": "chs_stono_true_land.geojson",
     "cover": "chs_stono_true_cover.geojson",
-    "depthEvidence": "chs_stono_true_depth_evidence.geojson.gz"
+    "depthEvidence": "chs_stono_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "chs_stono_true_dredged_evidence.geojson.gz"
    }
   },
   "myrtle_true": {
