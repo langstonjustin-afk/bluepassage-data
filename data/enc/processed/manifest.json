@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T15:19:29Z",
+ "updated": "2026-09-15T18:41:11Z",
  "tiles": {
   "charleston_savannah": {
    "bbox": [
@@ -136,7 +136,8 @@
    "files": {
     "land": "capefear_true_land.geojson",
     "cover": "capefear_true_cover.geojson",
-    "depthEvidence": "capefear_true_depth_evidence.geojson.gz"
+    "depthEvidence": "capefear_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "capefear_true_dredged_evidence.geojson.gz"
    }
   },
   "fl_gulf_harbors_true": {
@@ -149,7 +150,8 @@
    "files": {
     "land": "fl_gulf_harbors_true_land.geojson",
     "cover": "fl_gulf_harbors_true_cover.geojson",
-    "depthEvidence": "fl_gulf_harbors_true_depth_evidence.geojson.gz"
+    "depthEvidence": "fl_gulf_harbors_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "fl_gulf_harbors_true_dredged_evidence.geojson.gz"
    }
   },
   "st_augustine_true": {
@@ -162,7 +164,8 @@
    "files": {
     "land": "st_augustine_true_land.geojson",
     "cover": "st_augustine_true_cover.geojson",
-    "depthEvidence": "st_augustine_true_depth_evidence.geojson.gz"
+    "depthEvidence": "st_augustine_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "st_augustine_true_dredged_evidence.geojson.gz"
    }
   },
   "brunswick_true": {
@@ -175,7 +178,8 @@
    "files": {
     "land": "brunswick_true_land.geojson",
     "cover": "brunswick_true_cover.geojson",
-    "depthEvidence": "brunswick_true_depth_evidence.geojson.gz"
+    "depthEvidence": "brunswick_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "brunswick_true_dredged_evidence.geojson.gz"
    }
   },
   "canaveral_true": {
@@ -188,7 +192,8 @@
    "files": {
     "land": "canaveral_true_land.geojson",
     "cover": "canaveral_true_cover.geojson",
-    "depthEvidence": "canaveral_true_depth_evidence.geojson.gz"
+    "depthEvidence": "canaveral_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "canaveral_true_dredged_evidence.geojson.gz"
    }
   },
   "vero_ftpierce_true": {
@@ -201,7 +206,8 @@
    "files": {
     "land": "vero_ftpierce_true_land.geojson",
     "cover": "vero_ftpierce_true_cover.geojson",
-    "depthEvidence": "vero_ftpierce_true_depth_evidence.geojson.gz"
+    "depthEvidence": "vero_ftpierce_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "vero_ftpierce_true_dredged_evidence.geojson.gz"
    }
   },
   "stuart_palmbeach_true": {
@@ -214,7 +220,8 @@
    "files": {
     "land": "stuart_palmbeach_true_land.geojson",
     "cover": "stuart_palmbeach_true_cover.geojson",
-    "depthEvidence": "stuart_palmbeach_true_depth_evidence.geojson.gz"
+    "depthEvidence": "stuart_palmbeach_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "stuart_palmbeach_true_dredged_evidence.geojson.gz"
    }
   },
   "lauderdale_miami_true": {
@@ -227,7 +234,8 @@
    "files": {
     "land": "lauderdale_miami_true_land.geojson",
     "cover": "lauderdale_miami_true_cover.geojson",
-    "depthEvidence": "lauderdale_miami_true_depth_evidence.geojson.gz"
+    "depthEvidence": "lauderdale_miami_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "lauderdale_miami_true_dredged_evidence.geojson.gz"
    }
   },
   "sanjuan_true": {
@@ -240,7 +248,8 @@
    "files": {
     "land": "sanjuan_true_land.geojson",
     "cover": "sanjuan_true_cover.geojson",
-    "depthEvidence": "sanjuan_true_depth_evidence.geojson.gz"
+    "depthEvidence": "sanjuan_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "sanjuan_true_dredged_evidence.geojson.gz"
    }
   },
   "pr_east_true": {
@@ -253,7 +262,8 @@
    "files": {
     "land": "pr_east_true_land.geojson",
     "cover": "pr_east_true_cover.geojson",
-    "depthEvidence": "pr_east_true_depth_evidence.geojson.gz"
+    "depthEvidence": "pr_east_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "pr_east_true_dredged_evidence.geojson.gz"
    }
   },
   "usvi_true": {
@@ -321,7 +331,8 @@
    "files": {
     "land": "ossabaw_sapelo_true_land.geojson",
     "cover": "ossabaw_sapelo_true_cover.geojson",
-    "depthEvidence": "ossabaw_sapelo_true_depth_evidence.geojson.gz"
+    "depthEvidence": "ossabaw_sapelo_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "ossabaw_sapelo_true_dredged_evidence.geojson.gz"
    }
   },
   "fernandina_jax_true": {
@@ -334,7 +345,8 @@
    "files": {
     "land": "fernandina_jax_true_land.geojson",
     "cover": "fernandina_jax_true_cover.geojson",
-    "depthEvidence": "fernandina_jax_true_depth_evidence.geojson.gz"
+    "depthEvidence": "fernandina_jax_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "fernandina_jax_true_dredged_evidence.geojson.gz"
    }
   },
   "keys_upper_true": {
@@ -347,7 +359,8 @@
    "files": {
     "land": "keys_upper_true_land.geojson",
     "cover": "keys_upper_true_cover.geojson",
-    "depthEvidence": "keys_upper_true_depth_evidence.geojson.gz"
+    "depthEvidence": "keys_upper_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "keys_upper_true_dredged_evidence.geojson.gz"
    }
   },
   "keys_lower_true": {
@@ -360,7 +373,8 @@
    "files": {
     "land": "keys_lower_true_land.geojson",
     "cover": "keys_lower_true_cover.geojson",
-    "depthEvidence": "keys_lower_true_depth_evidence.geojson.gz"
+    "depthEvidence": "keys_lower_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "keys_lower_true_dredged_evidence.geojson.gz"
    }
   },
   "melbourne_sebastian_true": {
@@ -373,7 +387,8 @@
    "files": {
     "land": "melbourne_sebastian_true_land.geojson",
     "cover": "melbourne_sebastian_true_cover.geojson",
-    "depthEvidence": "melbourne_sebastian_true_depth_evidence.geojson.gz"
+    "depthEvidence": "melbourne_sebastian_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "melbourne_sebastian_true_dredged_evidence.geojson.gz"
    }
   },
   "charleston_north_true": {
@@ -400,7 +415,8 @@
    "files": {
     "land": "norfolk_hamptonroads_true_land.geojson",
     "cover": "norfolk_hamptonroads_true_cover.geojson",
-    "depthEvidence": "norfolk_hamptonroads_true_depth_evidence.geojson.gz"
+    "depthEvidence": "norfolk_hamptonroads_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "norfolk_hamptonroads_true_dredged_evidence.geojson.gz"
    }
   },
   "york_deltaville_true": {
@@ -413,7 +429,8 @@
    "files": {
     "land": "york_deltaville_true_land.geojson",
     "cover": "york_deltaville_true_cover.geojson",
-    "depthEvidence": "york_deltaville_true_depth_evidence.geojson.gz"
+    "depthEvidence": "york_deltaville_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "york_deltaville_true_dredged_evidence.geojson.gz"
    }
   },
   "reedville_potomac_true": {
@@ -426,7 +443,8 @@
    "files": {
     "land": "reedville_potomac_true_land.geojson",
     "cover": "reedville_potomac_true_cover.geojson",
-    "depthEvidence": "reedville_potomac_true_depth_evidence.geojson.gz"
+    "depthEvidence": "reedville_potomac_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "reedville_potomac_true_dredged_evidence.geojson.gz"
    }
   },
   "solomons_patuxent_true": {
@@ -439,7 +457,8 @@
    "files": {
     "land": "solomons_patuxent_true_land.geojson",
     "cover": "solomons_patuxent_true_cover.geojson",
-    "depthEvidence": "solomons_patuxent_true_depth_evidence.geojson.gz"
+    "depthEvidence": "solomons_patuxent_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "solomons_patuxent_true_dredged_evidence.geojson.gz"
    }
   },
   "annapolis_severn_true": {
@@ -452,7 +471,8 @@
    "files": {
     "land": "annapolis_severn_true_land.geojson",
     "cover": "annapolis_severn_true_cover.geojson",
-    "depthEvidence": "annapolis_severn_true_depth_evidence.geojson.gz"
+    "depthEvidence": "annapolis_severn_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "annapolis_severn_true_dredged_evidence.geojson.gz"
    }
   },
   "choptank_stmichaels_true": {
@@ -465,7 +485,8 @@
    "files": {
     "land": "choptank_stmichaels_true_land.geojson",
     "cover": "choptank_stmichaels_true_cover.geojson",
-    "depthEvidence": "choptank_stmichaels_true_depth_evidence.geojson.gz"
+    "depthEvidence": "choptank_stmichaels_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "choptank_stmichaels_true_dredged_evidence.geojson.gz"
    }
   },
   "baltimore_patapsco_true": {
@@ -478,7 +499,8 @@
    "files": {
     "land": "baltimore_patapsco_true_land.geojson",
     "cover": "baltimore_patapsco_true_cover.geojson",
-    "depthEvidence": "baltimore_patapsco_true_depth_evidence.geojson.gz"
+    "depthEvidence": "baltimore_patapsco_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "baltimore_patapsco_true_dredged_evidence.geojson.gz"
    }
   },
   "upperbay_cd_true": {
@@ -491,7 +513,8 @@
    "files": {
     "land": "upperbay_cd_true_land.geojson",
     "cover": "upperbay_cd_true_cover.geojson",
-    "depthEvidence": "upperbay_cd_true_depth_evidence.geojson.gz"
+    "depthEvidence": "upperbay_cd_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "upperbay_cd_true_dredged_evidence.geojson.gz"
    }
   },
   "delbay_true": {
@@ -504,7 +527,8 @@
    "files": {
     "land": "delbay_true_land.geojson",
     "cover": "delbay_true_cover.geojson",
-    "depthEvidence": "delbay_true_depth_evidence.geojson.gz"
+    "depthEvidence": "delbay_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "delbay_true_dredged_evidence.geojson.gz"
    }
   },
   "capemay_true": {
@@ -517,7 +541,8 @@
    "files": {
     "land": "capemay_true_land.geojson",
     "cover": "capemay_true_cover.geojson",
-    "depthEvidence": "capemay_true_depth_evidence.geojson.gz"
+    "depthEvidence": "capemay_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "capemay_true_dredged_evidence.geojson.gz"
    }
   },
   "njicw_atlantic_city_true": {
@@ -530,7 +555,8 @@
    "files": {
     "land": "njicw_atlantic_city_true_land.geojson",
     "cover": "njicw_atlantic_city_true_cover.geojson",
-    "depthEvidence": "njicw_atlantic_city_true_depth_evidence.geojson.gz"
+    "depthEvidence": "njicw_atlantic_city_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "njicw_atlantic_city_true_dredged_evidence.geojson.gz"
    }
   },
   "njicw_barnegat_true": {
@@ -543,7 +569,8 @@
    "files": {
     "land": "njicw_barnegat_true_land.geojson",
     "cover": "njicw_barnegat_true_cover.geojson",
-    "depthEvidence": "njicw_barnegat_true_depth_evidence.geojson.gz"
+    "depthEvidence": "njicw_barnegat_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "njicw_barnegat_true_dredged_evidence.geojson.gz"
    }
   },
   "manasquan_metedeconk_true": {
@@ -556,7 +583,8 @@
    "files": {
     "land": "manasquan_metedeconk_true_land.geojson",
     "cover": "manasquan_metedeconk_true_cover.geojson",
-    "depthEvidence": "manasquan_metedeconk_true_depth_evidence.geojson.gz"
+    "depthEvidence": "manasquan_metedeconk_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "manasquan_metedeconk_true_dredged_evidence.geojson.gz"
    }
   },
   "sandyhook_nyharbor_true": {
@@ -569,7 +597,8 @@
    "files": {
     "land": "sandyhook_nyharbor_true_land.geojson",
     "cover": "sandyhook_nyharbor_true_cover.geojson",
-    "depthEvidence": "sandyhook_nyharbor_true_depth_evidence.geojson.gz"
+    "depthEvidence": "sandyhook_nyharbor_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "sandyhook_nyharbor_true_dredged_evidence.geojson.gz"
    }
   },
   "nedisto_test_true": {
@@ -610,7 +639,8 @@
    "files": {
     "land": "myrtle_true_land.geojson",
     "cover": "myrtle_true_cover.geojson",
-    "depthEvidence": "myrtle_true_depth_evidence.geojson.gz"
+    "depthEvidence": "myrtle_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "myrtle_true_dredged_evidence.geojson.gz"
    }
   },
   "daytona_true": {
@@ -623,7 +653,8 @@
    "files": {
     "land": "daytona_true_land.geojson",
     "cover": "daytona_true_cover.geojson",
-    "depthEvidence": "daytona_true_depth_evidence.geojson.gz"
+    "depthEvidence": "daytona_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "daytona_true_dredged_evidence.geojson.gz"
    }
   },
   "pr_usvi": {
@@ -650,7 +681,8 @@
    "files": {
     "land": "tampa_sarasota_true_land.geojson",
     "cover": "tampa_sarasota_true_cover.geojson",
-    "depthEvidence": "tampa_sarasota_true_depth_evidence.geojson.gz"
+    "depthEvidence": "tampa_sarasota_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "tampa_sarasota_true_dredged_evidence.geojson.gz"
    }
   },
   "bimini_true": {
