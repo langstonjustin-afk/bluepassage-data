@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T18:17:04Z",
+ "updated": "2026-09-23T20:27:14Z",
  "tiles": {
   "charleston_savannah": {
    "bbox": [
@@ -953,6 +953,869 @@
     "cover": "keys_marathon_true_cover.geojson",
     "depthEvidence": "keys_marathon_true_depth_evidence.geojson.gz",
     "dredgedEvidence": "keys_marathon_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "nyme_port_jefferson_true": {
+   "bbox": [
+    -73.185,
+    40.215,
+    -72.065,
+    41.335
+   ],
+   "files": {
+    "land": "nyme_port_jefferson_true_land.geojson",
+    "cover": "nyme_port_jefferson_true_cover.geojson",
+    "depthEvidence": "nyme_port_jefferson_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_martha_s_vineyard_true": {
+   "bbox": [
+    -71.085,
+    40.915,
+    -69.965,
+    42.035
+   ],
+   "files": {
+    "land": "nyme_martha_s_vineyard_true_land.geojson",
+    "cover": "nyme_martha_s_vineyard_true_cover.geojson",
+    "depthEvidence": "nyme_martha_s_vineyard_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_port_washington_true": {
+   "bbox": [
+    -74.235,
+    40.215,
+    -73.115,
+    41.335
+   ],
+   "files": {
+    "land": "nyme_port_washington_true_land.geojson",
+    "cover": "nyme_port_washington_true_cover.geojson",
+    "depthEvidence": "nyme_port_washington_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "nyme_port_washington_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "nyme_block_island_true": {
+   "bbox": [
+    -72.135,
+    40.565,
+    -71.015,
+    41.685
+   ],
+   "files": {
+    "land": "nyme_block_island_true_land.geojson",
+    "cover": "nyme_block_island_true_cover.geojson",
+    "depthEvidence": "nyme_block_island_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_camden_true": {
+   "bbox": [
+    -69.335,
+    43.715,
+    -68.215,
+    44.835
+   ],
+   "files": {
+    "land": "nyme_camden_true_land.geojson",
+    "cover": "nyme_camden_true_cover.geojson",
+    "depthEvidence": "nyme_camden_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_boston_waterboat_marina_true": {
+   "bbox": [
+    -71.785,
+    41.615,
+    -70.665,
+    42.735
+   ],
+   "files": {
+    "land": "nyme_boston_waterboat_marina_true_land.geojson",
+    "cover": "nyme_boston_waterboat_marina_true_cover.geojson",
+    "depthEvidence": "nyme_boston_waterboat_marina_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_boothbay_harbor_true": {
+   "bbox": [
+    -70.385,
+    43.365,
+    -69.265,
+    44.485
+   ],
+   "files": {
+    "land": "nyme_boothbay_harbor_true_land.geojson",
+    "cover": "nyme_boothbay_harbor_true_cover.geojson",
+    "depthEvidence": "nyme_boothbay_harbor_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_gloucester_true": {
+   "bbox": [
+    -71.085,
+    41.965,
+    -69.965,
+    43.085
+   ],
+   "files": {
+    "land": "nyme_gloucester_true_land.geojson",
+    "cover": "nyme_gloucester_true_cover.geojson",
+    "depthEvidence": "nyme_gloucester_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_429n_737w_true": {
+   "bbox": [
+    -74.235,
+    42.315,
+    -73.115,
+    43.435
+   ],
+   "files": {
+    "land": "nyme_429n_737w_true_land.geojson",
+    "cover": "nyme_429n_737w_true_cover.geojson",
+    "depthEvidence": "nyme_429n_737w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_418n_738w_true": {
+   "bbox": [
+    -74.235,
+    41.265,
+    -73.465,
+    42.385
+   ],
+   "files": {
+    "land": "nyme_418n_738w_true_land.geojson",
+    "cover": "nyme_418n_738w_true_cover.geojson",
+    "depthEvidence": "nyme_418n_738w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_portsmouth_true": {
+   "bbox": [
+    -71.435,
+    42.665,
+    -70.315,
+    43.785
+   ],
+   "files": {
+    "land": "nyme_portsmouth_true_land.geojson",
+    "cover": "nyme_portsmouth_true_cover.geojson",
+    "depthEvidence": "nyme_portsmouth_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_416n_726w_true": {
+   "bbox": [
+    -73.185,
+    41.265,
+    -72.065,
+    42.035
+   ],
+   "files": {
+    "land": "nyme_416n_726w_true_land.geojson",
+    "cover": "nyme_416n_726w_true_cover.geojson",
+    "depthEvidence": "nyme_416n_726w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_448n_670w_true": {
+   "bbox": [
+    -67.235,
+    44.415,
+    -66.815,
+    45.185
+   ],
+   "files": {
+    "land": "nyme_448n_670w_true_land.geojson",
+    "cover": "nyme_448n_670w_true_cover.geojson",
+    "depthEvidence": "nyme_448n_670w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_nantucket_true": {
+   "bbox": [
+    -70.035,
+    40.915,
+    -69.615,
+    42.035
+   ],
+   "files": {
+    "land": "nyme_nantucket_true_land.geojson",
+    "cover": "nyme_nantucket_true_cover.geojson",
+    "depthEvidence": "nyme_nantucket_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_bar_harbor_true": {
+   "bbox": [
+    -68.285,
+    44.065,
+    -67.865,
+    44.835
+   ],
+   "files": {
+    "land": "nyme_bar_harbor_true_land.geojson",
+    "cover": "nyme_bar_harbor_true_cover.geojson",
+    "depthEvidence": "nyme_bar_harbor_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_429n_744w_true": {
+   "bbox": [
+    -74.585,
+    42.665,
+    -74.165,
+    43.085
+   ],
+   "files": {
+    "land": "nyme_429n_744w_true_land.geojson",
+    "cover": "nyme_429n_744w_true_cover.geojson",
+    "depthEvidence": "nyme_429n_744w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_436n_733w_true": {
+   "bbox": [
+    -73.535,
+    43.365,
+    -73.115,
+    43.785
+   ],
+   "files": {
+    "land": "nyme_436n_733w_true_land.geojson",
+    "cover": "nyme_436n_733w_true_cover.geojson",
+    "depthEvidence": "nyme_436n_733w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "nyme_444n_733w_true": {
+   "bbox": [
+    -73.535,
+    44.065,
+    -73.115,
+    44.835
+   ],
+   "files": {
+    "land": "nyme_444n_733w_true_land.geojson",
+    "cover": "nyme_444n_733w_true_cover.geojson",
+    "depthEvidence": "nyme_444n_733w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_296n_947w_true": {
+   "bbox": [
+    -95.235,
+    29.015,
+    -94.115,
+    30.135
+   ],
+   "files": {
+    "land": "wgulf_296n_947w_true_land.geojson",
+    "cover": "wgulf_296n_947w_true_cover.geojson",
+    "depthEvidence": "wgulf_296n_947w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_296n_933w_true": {
+   "bbox": [
+    -93.835,
+    29.015,
+    -92.715,
+    30.135
+   ],
+   "files": {
+    "land": "wgulf_296n_933w_true_land.geojson",
+    "cover": "wgulf_296n_933w_true_cover.geojson",
+    "depthEvidence": "wgulf_296n_933w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_296n_915w_true": {
+   "bbox": [
+    -92.085,
+    29.015,
+    -90.965,
+    30.135
+   ],
+   "files": {
+    "land": "wgulf_296n_915w_true_land.geojson",
+    "cover": "wgulf_296n_915w_true_cover.geojson",
+    "depthEvidence": "wgulf_296n_915w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_292n_905w_true": {
+   "bbox": [
+    -91.035,
+    28.665,
+    -89.915,
+    29.785
+   ],
+   "files": {
+    "land": "wgulf_292n_905w_true_land.geojson",
+    "cover": "wgulf_292n_905w_true_cover.geojson",
+    "depthEvidence": "wgulf_292n_905w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_282n_971w_true": {
+   "bbox": [
+    -97.685,
+    27.615,
+    -96.565,
+    28.735
+   ],
+   "files": {
+    "land": "wgulf_282n_971w_true_land.geojson",
+    "cover": "wgulf_282n_971w_true_cover.geojson",
+    "depthEvidence": "wgulf_282n_971w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_292n_894w_true": {
+   "bbox": [
+    -89.985,
+    28.665,
+    -88.865,
+    29.785
+   ],
+   "files": {
+    "land": "wgulf_292n_894w_true_land.geojson",
+    "cover": "wgulf_292n_894w_true_cover.geojson",
+    "depthEvidence": "wgulf_292n_894w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_301n_898w_true": {
+   "bbox": [
+    -90.335,
+    29.715,
+    -89.215,
+    30.485
+   ],
+   "files": {
+    "land": "wgulf_301n_898w_true_land.geojson",
+    "cover": "wgulf_301n_898w_true_cover.geojson",
+    "depthEvidence": "wgulf_301n_898w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_289n_954w_true": {
+   "bbox": [
+    -95.935,
+    28.315,
+    -94.815,
+    29.435
+   ],
+   "files": {
+    "land": "wgulf_289n_954w_true_land.geojson",
+    "cover": "wgulf_289n_954w_true_cover.geojson",
+    "depthEvidence": "wgulf_289n_954w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_303n_908w_true": {
+   "bbox": [
+    -91.385,
+    29.715,
+    -90.265,
+    30.835
+   ],
+   "files": {
+    "land": "wgulf_303n_908w_true_land.geojson",
+    "cover": "wgulf_303n_908w_true_cover.geojson",
+    "depthEvidence": "wgulf_303n_908w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_299n_936w_true": {
+   "bbox": [
+    -94.185,
+    29.365,
+    -93.065,
+    30.485
+   ],
+   "files": {
+    "land": "wgulf_299n_936w_true_land.geojson",
+    "cover": "wgulf_299n_936w_true_cover.geojson",
+    "depthEvidence": "wgulf_299n_936w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_261n_973w_true": {
+   "bbox": [
+    -97.685,
+    25.515,
+    -96.915,
+    26.635
+   ],
+   "files": {
+    "land": "wgulf_261n_973w_true_land.geojson",
+    "cover": "wgulf_261n_973w_true_cover.geojson",
+    "depthEvidence": "wgulf_261n_973w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_287n_964w_true": {
+   "bbox": [
+    -96.985,
+    28.315,
+    -95.865,
+    29.085
+   ],
+   "files": {
+    "land": "wgulf_287n_964w_true_land.geojson",
+    "cover": "wgulf_287n_964w_true_cover.geojson",
+    "depthEvidence": "wgulf_287n_964w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_271n_973w_true": {
+   "bbox": [
+    -97.685,
+    26.565,
+    -96.915,
+    27.685
+   ],
+   "files": {
+    "land": "wgulf_271n_973w_true_land.geojson",
+    "cover": "wgulf_271n_973w_true_cover.geojson",
+    "depthEvidence": "wgulf_271n_973w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_298n_924w_true": {
+   "bbox": [
+    -92.785,
+    29.365,
+    -92.015,
+    30.135
+   ],
+   "files": {
+    "land": "wgulf_298n_924w_true_land.geojson",
+    "cover": "wgulf_298n_924w_true_cover.geojson",
+    "depthEvidence": "wgulf_298n_924w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "wgulf_298n_954w_true": {
+   "bbox": [
+    -95.585,
+    29.365,
+    -95.165,
+    30.135
+   ],
+   "files": {
+    "land": "wgulf_298n_954w_true_land.geojson",
+    "cover": "wgulf_298n_954w_true_cover.geojson",
+    "depthEvidence": "wgulf_298n_954w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "ches_387n_772w_true": {
+   "bbox": [
+    -77.735,
+    38.115,
+    -76.615,
+    39.235
+   ],
+   "files": {
+    "land": "ches_387n_772w_true_land.geojson",
+    "cover": "ches_387n_772w_true_cover.geojson",
+    "depthEvidence": "ches_387n_772w_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "ches_387n_772w_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "ches_376n_758w_true": {
+   "bbox": [
+    -76.335,
+    37.065,
+    -75.215,
+    38.185
+   ],
+   "files": {
+    "land": "ches_376n_758w_true_land.geojson",
+    "cover": "ches_376n_758w_true_cover.geojson",
+    "depthEvidence": "ches_376n_758w_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "ches_376n_758w_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "ches_yorktown_true": {
+   "bbox": [
+    -77.385,
+    36.715,
+    -76.265,
+    37.835
+   ],
+   "files": {
+    "land": "ches_yorktown_true_land.geojson",
+    "cover": "ches_yorktown_true_cover.geojson",
+    "depthEvidence": "ches_yorktown_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "ches_yorktown_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "ches_362n_768w_true": {
+   "bbox": [
+    -77.385,
+    35.665,
+    -76.265,
+    36.785
+   ],
+   "files": {
+    "land": "ches_362n_768w_true_land.geojson",
+    "cover": "ches_362n_768w_true_cover.geojson",
+    "depthEvidence": "ches_362n_768w_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "ches_362n_768w_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "ches_376n_772w_true": {
+   "bbox": [
+    -77.735,
+    37.065,
+    -76.615,
+    38.185
+   ],
+   "files": {
+    "land": "ches_376n_772w_true_land.geojson",
+    "cover": "ches_376n_772w_true_cover.geojson",
+    "depthEvidence": "ches_376n_772w_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "ches_376n_772w_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "ches_360n_756w_true": {
+   "bbox": [
+    -75.985,
+    35.665,
+    -75.215,
+    36.435
+   ],
+   "files": {
+    "land": "ches_360n_756w_true_land.geojson",
+    "cover": "ches_360n_756w_true_cover.geojson",
+    "depthEvidence": "ches_360n_756w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "ches_cambridge_true": {
+   "bbox": [
+    -76.335,
+    38.115,
+    -75.215,
+    38.885
+   ],
+   "files": {
+    "land": "ches_cambridge_true_land.geojson",
+    "cover": "ches_cambridge_true_cover.geojson",
+    "depthEvidence": "ches_cambridge_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "ches_cambridge_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "ches_385n_749w_true": {
+   "bbox": [
+    -75.285,
+    38.115,
+    -74.515,
+    38.885
+   ],
+   "files": {
+    "land": "ches_385n_749w_true_land.geojson",
+    "cover": "ches_385n_749w_true_cover.geojson",
+    "depthEvidence": "ches_385n_749w_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "ches_385n_749w_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "ches_rock_hall_true": {
+   "bbox": [
+    -76.685,
+    39.165,
+    -75.915,
+    39.585
+   ],
+   "files": {
+    "land": "ches_rock_hall_true_land.geojson",
+    "cover": "ches_rock_hall_true_cover.geojson",
+    "depthEvidence": "ches_rock_hall_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "ches_rock_hall_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "ches_delaware_city_true": {
+   "bbox": [
+    -75.635,
+    39.165,
+    -75.215,
+    39.585
+   ],
+   "files": {
+    "land": "ches_delaware_city_true_land.geojson",
+    "cover": "ches_delaware_city_true_cover.geojson",
+    "depthEvidence": "ches_delaware_city_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "ches_delaware_city_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "cgulf_303n_877w_true": {
+   "bbox": [
+    -88.235,
+    29.715,
+    -87.115,
+    30.835
+   ],
+   "files": {
+    "land": "cgulf_303n_877w_true_land.geojson",
+    "cover": "cgulf_303n_877w_true_cover.geojson",
+    "depthEvidence": "cgulf_303n_877w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "cgulf_301n_887w_true": {
+   "bbox": [
+    -89.285,
+    29.715,
+    -88.165,
+    30.485
+   ],
+   "files": {
+    "land": "cgulf_301n_887w_true_land.geojson",
+    "cover": "cgulf_301n_887w_true_cover.geojson",
+    "depthEvidence": "cgulf_301n_887w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "cgulf_304n_866w_true": {
+   "bbox": [
+    -87.185,
+    30.065,
+    -86.065,
+    30.835
+   ],
+   "files": {
+    "land": "cgulf_304n_866w_true_land.geojson",
+    "cover": "cgulf_304n_866w_true_cover.geojson",
+    "depthEvidence": "cgulf_304n_866w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "cgulf_299n_856w_true": {
+   "bbox": [
+    -86.135,
+    29.365,
+    -85.015,
+    30.485
+   ],
+   "files": {
+    "land": "cgulf_299n_856w_true_land.geojson",
+    "cover": "cgulf_299n_856w_true_cover.geojson",
+    "depthEvidence": "cgulf_299n_856w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "cgulf_299n_845w_true": {
+   "bbox": [
+    -85.085,
+    29.365,
+    -83.965,
+    30.485
+   ],
+   "files": {
+    "land": "cgulf_299n_845w_true_land.geojson",
+    "cover": "cgulf_299n_845w_true_cover.geojson",
+    "depthEvidence": "cgulf_299n_845w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "cgulf_292n_833w_true": {
+   "bbox": [
+    -83.685,
+    28.665,
+    -82.915,
+    29.785
+   ],
+   "files": {
+    "land": "cgulf_292n_833w_true_land.geojson",
+    "cover": "cgulf_292n_833w_true_cover.geojson",
+    "depthEvidence": "cgulf_292n_833w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "hatjax_beaufort_true": {
+   "bbox": [
+    -77.035,
+    34.265,
+    -75.915,
+    35.385
+   ],
+   "files": {
+    "land": "hatjax_beaufort_true_land.geojson",
+    "cover": "hatjax_beaufort_true_cover.geojson",
+    "depthEvidence": "hatjax_beaufort_true_depth_evidence.geojson.gz"
+   }
+  },
+  "hatjax_new_bern_true": {
+   "bbox": [
+    -77.735,
+    34.615,
+    -76.615,
+    35.735
+   ],
+   "files": {
+    "land": "hatjax_new_bern_true_land.geojson",
+    "cover": "hatjax_new_bern_true_cover.geojson",
+    "depthEvidence": "hatjax_new_bern_true_depth_evidence.geojson.gz"
+   }
+  },
+  "hatjax_350n_758w_true": {
+   "bbox": [
+    -75.985,
+    34.615,
+    -75.565,
+    35.385
+   ],
+   "files": {
+    "land": "hatjax_350n_758w_true_land.geojson",
+    "cover": "hatjax_350n_758w_true_cover.geojson",
+    "depthEvidence": "hatjax_350n_758w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "hatjax_bald_head_island_marina_true": {
+   "bbox": [
+    -78.435,
+    33.565,
+    -77.665,
+    33.985
+   ],
+   "files": {
+    "land": "hatjax_bald_head_island_marina_true_land.geojson",
+    "cover": "hatjax_bald_head_island_marina_true_cover.geojson",
+    "depthEvidence": "hatjax_bald_head_island_marina_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "hatjax_bald_head_island_marina_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "prvi_182n_670w_true": {
+   "bbox": [
+    -67.585,
+    17.815,
+    -66.465,
+    18.585
+   ],
+   "files": {
+    "land": "prvi_182n_670w_true_land.geojson",
+    "cover": "prvi_182n_670w_true_cover.geojson",
+    "depthEvidence": "prvi_182n_670w_true_depth_evidence.geojson.gz"
+   }
+  },
+  "prvi_180n_660w_true": {
+   "bbox": [
+    -66.535,
+    17.815,
+    -65.415,
+    18.235
+   ],
+   "files": {
+    "land": "prvi_180n_660w_true_land.geojson",
+    "cover": "prvi_180n_660w_true_cover.geojson",
+    "depthEvidence": "prvi_180n_660w_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "prvi_180n_660w_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "prvi_st_croix_true": {
+   "bbox": [
+    -65.135,
+    17.465,
+    -64.365,
+    17.885
+   ],
+   "files": {
+    "land": "prvi_st_croix_true_land.geojson",
+    "cover": "prvi_st_croix_true_cover.geojson",
+    "depthEvidence": "prvi_st_croix_true_depth_evidence.geojson.gz"
+   }
+  },
+  "chssav_327n_814w_true": {
+   "bbox": [
+    -81.935,
+    32.165,
+    -80.815,
+    33.285
+   ],
+   "files": {
+    "land": "chssav_327n_814w_true_land.geojson",
+    "cover": "chssav_327n_814w_true_cover.geojson",
+    "depthEvidence": "chssav_327n_814w_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "chssav_327n_814w_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "chssav_shem_creek_marina_true": {
+   "bbox": [
+    -80.185,
+    32.515,
+    -79.415,
+    33.285
+   ],
+   "files": {
+    "land": "chssav_shem_creek_marina_true_land.geojson",
+    "cover": "chssav_shem_creek_marina_true_cover.geojson",
+    "depthEvidence": "chssav_shem_creek_marina_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "chssav_shem_creek_marina_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "chssav_kilkenny_true": {
+   "bbox": [
+    -81.235,
+    31.465,
+    -80.815,
+    31.885
+   ],
+   "files": {
+    "land": "chssav_kilkenny_true_land.geojson",
+    "cover": "chssav_kilkenny_true_cover.geojson",
+    "depthEvidence": "chssav_kilkenny_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "chssav_kilkenny_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "flgulf_dry_tortugas_true": {
+   "bbox": [
+    -83.335,
+    24.465,
+    -82.565,
+    24.885
+   ],
+   "files": {
+    "land": "flgulf_dry_tortugas_true_land.geojson",
+    "cover": "flgulf_dry_tortugas_true_cover.geojson",
+    "depthEvidence": "flgulf_dry_tortugas_true_depth_evidence.geojson.gz"
+   }
+  },
+  "flgulf_port_of_the_islands_marina_true": {
+   "bbox": [
+    -81.585,
+    25.515,
+    -81.165,
+    25.935
+   ],
+   "files": {
+    "land": "flgulf_port_of_the_islands_marina_true_land.geojson",
+    "cover": "flgulf_port_of_the_islands_marina_true_cover.geojson",
+    "depthEvidence": "flgulf_port_of_the_islands_marina_true_depth_evidence.geojson.gz"
+   }
+  },
+  "flgulf_marker_1_marina_true": {
+   "bbox": [
+    -82.985,
+    27.965,
+    -82.565,
+    28.385
+   ],
+   "files": {
+    "land": "flgulf_marker_1_marina_true_land.geojson",
+    "cover": "flgulf_marker_1_marina_true_cover.geojson",
+    "depthEvidence": "flgulf_marker_1_marina_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "flgulf_marker_1_marina_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "flgulf_key_west_bight_marina_true": {
+   "bbox": [
+    -82.285,
+    24.115,
+    -81.865,
+    24.885
+   ],
+   "files": {
+    "land": "flgulf_key_west_bight_marina_true_land.geojson",
+    "cover": "flgulf_key_west_bight_marina_true_cover.geojson",
+    "depthEvidence": "flgulf_key_west_bight_marina_true_depth_evidence.geojson.gz"
+   }
+  },
+  "flatl_sunrise_marina_port_canaveral_true": {
+   "bbox": [
+    -80.535,
+    27.965,
+    -80.115,
+    28.735
+   ],
+   "files": {
+    "land": "flatl_sunrise_marina_port_canaveral_true_land.geojson",
+    "cover": "flatl_sunrise_marina_port_canaveral_true_cover.geojson",
+    "depthEvidence": "flatl_sunrise_marina_port_canaveral_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "flatl_sunrise_marina_port_canaveral_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "flatl_sailfish_marina_true": {
+   "bbox": [
+    -80.185,
+    26.565,
+    -79.765,
+    26.985
+   ],
+   "files": {
+    "land": "flatl_sailfish_marina_true_land.geojson",
+    "cover": "flatl_sailfish_marina_true_cover.geojson",
+    "depthEvidence": "flatl_sailfish_marina_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "flatl_sailfish_marina_true_dredged_evidence.geojson.gz"
    }
   }
  }
