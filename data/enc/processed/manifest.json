@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T18:41:11Z",
+ "updated": "2026-09-23T18:17:04Z",
  "tiles": {
   "charleston_savannah": {
    "bbox": [
@@ -171,7 +171,7 @@
   "brunswick_true": {
    "bbox": [
     -81.785,
-    30.915,
+    30.845,
     -81.165,
     31.485
    ],
@@ -367,8 +367,8 @@
    "bbox": [
     -81.985,
     24.415,
-    -80.765,
-    24.985
+    -81.385,
+    24.835
    ],
    "files": {
     "land": "keys_lower_true_land.geojson",
@@ -450,7 +450,7 @@
   "solomons_patuxent_true": {
    "bbox": [
     -76.735,
-    38.115,
+    38.225,
     -76.265,
     38.635
    ],
@@ -520,7 +520,7 @@
   "delbay_true": {
    "bbox": [
     -75.485,
-    38.715,
+    38.845,
     -75.015,
     39.385
    ],
@@ -707,6 +707,252 @@
    "files": {
     "land": "west_end_true_land.geojson",
     "cover": "west_end_true_cover.geojson"
+   }
+  },
+  "keys_middle_true": {
+   "bbox": [
+    -81.585,
+    24.515,
+    -80.915,
+    24.935
+   ],
+   "files": {
+    "land": "keys_middle_true_land.geojson",
+    "cover": "keys_middle_true_cover.geojson",
+    "depthEvidence": "keys_middle_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "keys_middle_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "clearwater_stpete_true": {
+   "bbox": [
+    -82.935,
+    27.665,
+    -82.515,
+    28.085
+   ],
+   "files": {
+    "land": "clearwater_stpete_true_land.geojson",
+    "cover": "clearwater_stpete_true_cover.geojson",
+    "depthEvidence": "clearwater_stpete_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "clearwater_stpete_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "capefear_southport_true": {
+   "bbox": [
+    -78.835,
+    33.745,
+    -77.815,
+    34.085
+   ],
+   "files": {
+    "land": "capefear_southport_true_land.geojson",
+    "cover": "capefear_southport_true_cover.geojson",
+    "depthEvidence": "capefear_southport_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "capefear_southport_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "wilmington_wrightsville_true": {
+   "bbox": [
+    -78.085,
+    33.965,
+    -77.615,
+    34.385
+   ],
+   "files": {
+    "land": "wilmington_wrightsville_true_land.geojson",
+    "cover": "wilmington_wrightsville_true_cover.geojson",
+    "depthEvidence": "wilmington_wrightsville_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "wilmington_wrightsville_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "topsail_newriver_true": {
+   "bbox": [
+    -77.835,
+    34.245,
+    -77.165,
+    34.635
+   ],
+   "files": {
+    "land": "topsail_newriver_true_land.geojson",
+    "cover": "topsail_newriver_true_cover.geojson",
+    "depthEvidence": "topsail_newriver_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "topsail_newriver_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "bogue_beaufort_true": {
+   "bbox": [
+    -77.335,
+    34.515,
+    -76.515,
+    34.835
+   ],
+   "files": {
+    "land": "bogue_beaufort_true_land.geojson",
+    "cover": "bogue_beaufort_true_cover.geojson",
+    "depthEvidence": "bogue_beaufort_true_depth_evidence.geojson.gz"
+   }
+  },
+  "neuse_oriental_true": {
+   "bbox": [
+    -76.885,
+    34.715,
+    -76.415,
+    35.235
+   ],
+   "files": {
+    "land": "neuse_oriental_true_land.geojson",
+    "cover": "neuse_oriental_true_cover.geojson",
+    "depthEvidence": "neuse_oriental_true_depth_evidence.geojson.gz"
+   }
+  },
+  "pamlico_belhaven_true": {
+   "bbox": [
+    -76.835,
+    35.115,
+    -76.265,
+    35.635
+   ],
+   "files": {
+    "land": "pamlico_belhaven_true_land.geojson",
+    "cover": "pamlico_belhaven_true_cover.geojson",
+    "depthEvidence": "pamlico_belhaven_true_depth_evidence.geojson.gz"
+   }
+  },
+  "alligator_pungo_true": {
+   "bbox": [
+    -76.685,
+    35.415,
+    -75.965,
+    35.985
+   ],
+   "files": {
+    "land": "alligator_pungo_true_land.geojson",
+    "cover": "alligator_pungo_true_cover.geojson",
+    "depthEvidence": "alligator_pungo_true_depth_evidence.geojson.gz"
+   }
+  },
+  "pasquotank_elizabethcity_true": {
+   "bbox": [
+    -76.485,
+    35.845,
+    -76.115,
+    36.435
+   ],
+   "files": {
+    "land": "pasquotank_elizabethcity_true_land.geojson",
+    "cover": "pasquotank_elizabethcity_true_cover.geojson",
+    "depthEvidence": "pasquotank_elizabethcity_true_depth_evidence.geojson.gz"
+   }
+  },
+  "northriver_currituck_true": {
+   "bbox": [
+    -76.235,
+    35.845,
+    -75.815,
+    36.435
+   ],
+   "files": {
+    "land": "northriver_currituck_true_land.geojson",
+    "cover": "northriver_currituck_true_cover.geojson",
+    "depthEvidence": "northriver_currituck_true_depth_evidence.geojson.gz"
+   }
+  },
+  "dismal_northlanding_true": {
+   "bbox": [
+    -76.485,
+    36.245,
+    -75.815,
+    36.815
+   ],
+   "files": {
+    "land": "dismal_northlanding_true_land.geojson",
+    "cover": "dismal_northlanding_true_cover.geojson",
+    "depthEvidence": "dismal_northlanding_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "dismal_northlanding_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "york_poquoson_true": {
+   "bbox": [
+    -76.635,
+    37.015,
+    -76.115,
+    37.495
+   ],
+   "files": {
+    "land": "york_poquoson_true_land.geojson",
+    "cover": "york_poquoson_true_cover.geojson",
+    "depthEvidence": "york_poquoson_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "york_poquoson_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "piankatank_deltaville_true": {
+   "bbox": [
+    -76.655,
+    37.395,
+    -76.185,
+    37.635
+   ],
+   "files": {
+    "land": "piankatank_deltaville_true_land.geojson",
+    "cover": "piankatank_deltaville_true_cover.geojson",
+    "depthEvidence": "piankatank_deltaville_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "piankatank_deltaville_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "rappahannock_reedville_true": {
+   "bbox": [
+    -76.635,
+    37.515,
+    -76.165,
+    37.915
+   ],
+   "files": {
+    "land": "rappahannock_reedville_true_land.geojson",
+    "cover": "rappahannock_reedville_true_cover.geojson",
+    "depthEvidence": "rappahannock_reedville_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "rappahannock_reedville_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "potomac_mouth_true": {
+   "bbox": [
+    -76.655,
+    37.815,
+    -76.265,
+    38.315
+   ],
+   "files": {
+    "land": "potomac_mouth_true_land.geojson",
+    "cover": "potomac_mouth_true_cover.geojson",
+    "depthEvidence": "potomac_mouth_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "potomac_mouth_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "lewes_henlopen_true": {
+   "bbox": [
+    -75.315,
+    38.665,
+    -74.985,
+    38.955
+   ],
+   "files": {
+    "land": "lewes_henlopen_true_land.geojson",
+    "cover": "lewes_henlopen_true_cover.geojson",
+    "depthEvidence": "lewes_henlopen_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "lewes_henlopen_true_dredged_evidence.geojson.gz"
+   }
+  },
+  "keys_marathon_true": {
+   "bbox": [
+    -81.255,
+    24.625,
+    -80.665,
+    24.975
+   ],
+   "files": {
+    "land": "keys_marathon_true_land.geojson",
+    "cover": "keys_marathon_true_cover.geojson",
+    "depthEvidence": "keys_marathon_true_depth_evidence.geojson.gz",
+    "dredgedEvidence": "keys_marathon_true_dredged_evidence.geojson.gz"
    }
   }
  }
