@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T15:25:50Z",
+ "updated": "2026-09-25T02:26:27Z",
  "tiles": {
   "charleston_savannah": {
    "bbox": [
@@ -1816,6 +1816,85 @@
     "cover": "flatl_sailfish_marina_true_cover.geojson",
     "depthEvidence": "flatl_sailfish_marina_true_depth_evidence.geojson.gz",
     "dredgedEvidence": "flatl_sailfish_marina_true_dredged_evidence.geojson.gz"
+   }
+  }
+ },
+ "bridgeTiles": {
+  "upper_bay_delaware_river": {
+   "bbox": [
+    -76.35,
+    39.5,
+    -74.5,
+    40.25
+   ],
+   "files": {
+    "bridges": "upper_bay_delaware_river_bridges.geojson"
+   }
+  },
+  "st_johns_river": {
+   "bbox": [
+    -81.85,
+    29.5,
+    -81.6,
+    30.55
+   ],
+   "files": {
+    "bridges": "st_johns_river_bridges.geojson"
+   }
+  },
+  "savannah_river_upper": {
+   "bbox": [
+    -82.0,
+    32.9,
+    -81.6,
+    33.4
+   ],
+   "files": {
+    "bridges": "savannah_river_upper_bridges.geojson"
+   }
+  },
+  "mohawk_river": {
+   "bbox": [
+    -74.65,
+    42.75,
+    -74.5,
+    43.05
+   ],
+   "files": {
+    "bridges": "mohawk_river_bridges.geojson"
+   }
+  },
+  "mobile_river_north": {
+   "bbox": [
+    -88.2,
+    30.8,
+    -87.8,
+    30.9
+   ],
+   "files": {
+    "bridges": "mobile_river_north_bridges.geojson"
+   }
+  },
+  "mississippi_baton_rouge": {
+   "bbox": [
+    -91.3,
+    30.5,
+    -91.05,
+    30.7
+   ],
+   "files": {
+    "bridges": "mississippi_baton_rouge_bridges.geojson"
+   }
+  },
+  "corpus_christi_west": {
+   "bbox": [
+    -97.65,
+    27.75,
+    -97.5,
+    27.95
+   ],
+   "files": {
+    "bridges": "corpus_christi_west_bridges.geojson"
    }
   }
  }
