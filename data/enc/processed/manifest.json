@@ -1973,5 +1973,85 @@
     "bridges": "corpus_christi_west_bridges.geojson"
    }
   }
+ },
+ "estimateTiles": {
+  "est_17n_e33_n141": {
+   "bbox": [
+    -79.408203,
+    25.486232,
+    -79.20661,
+    25.669065
+   ],
+   "files": {
+    "depthEstimate": "est_17n_e33_n141.geojson.gz"
+   },
+   "pictures": "2023-2026",
+   "built": "2026-11-23"
+  },
+  "est_17n_e34_n141": {
+   "bbox": [
+    -79.209301,
+    25.483669,
+    -79.007436,
+    25.666753
+   ],
+   "files": {
+    "depthEstimate": "est_17n_e34_n141.geojson.gz"
+   },
+   "pictures": "2023-2026",
+   "built": "2026-11-23"
+  },
+  "est_17n_e33_n142": {
+   "bbox": [
+    -79.405813,
+    25.666751,
+    -79.203896,
+    25.849598
+   ],
+   "files": {
+    "depthEstimate": "est_17n_e33_n142.geojson.gz"
+   },
+   "pictures": "2023-2026",
+   "built": "2026-11-23"
+  },
+  "est_17n_e34_n142": {
+   "bbox": [
+    -79.206612,
+    25.664167,
+    -79.004421,
+    25.847267
+   ],
+   "files": {
+    "depthEstimate": "est_17n_e34_n142.geojson.gz"
+   },
+   "pictures": "2023-2026",
+   "built": "2026-11-23"
+  },
+  "est_17n_e33_n143": {
+   "bbox": [
+    -79.403399,
+    25.847265,
+    -79.201156,
+    26.030126
+   ],
+   "files": {
+    "depthEstimate": "est_17n_e33_n143.geojson.gz"
+   },
+   "pictures": "2023-2026",
+   "built": "2026-11-23"
+  },
+  "est_17n_e34_n143": {
+   "bbox": [
+    -79.203898,
+    25.84466,
+    -79.001376,
+    26.027777
+   ],
+   "files": {
+    "depthEstimate": "est_17n_e34_n143.geojson.gz"
+   },
+   "pictures": "2023-2026",
+   "built": "2026-11-23"
+  }
  }
 }
